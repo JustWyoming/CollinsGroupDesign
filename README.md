@@ -1,10 +1,12 @@
-CollinsGroupDesign
+CollinsGroupDesign - New Site Design
 ==================
 
-First time with responsive grid and css site design
+### new developer - First time experimenting with a responsive grid and css site layout.
 
-Learning coding.  Making a site with fluid grids and java slider. Having an initial problem where nested Nav displays below the slider in mobile view.
+Using the DMXZone Nivo3 Slider and having a problem where nested Nav menu's display below the slider when the browser is sized for mobile.
 
-Would like to know how to make the nav one menu, with roll out drop downs for mobile, that don't hide themselves below the slider.
+I would really appreciate suggestions for how to make the entire nav (nested menus and main menus) one menu, with roll out drop downs for mobile view that don't hide themselves below the slider.
+
+
 
 
